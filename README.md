@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+Welcome to my personal github page! 
+
+Here I'm uploading some projects I have done during my engineering graduation (I'm undergraduate yet and hope to remove this parentheses in the nexts commits) and also personal projects made on my particular studies.
+
+- 🔭 I'm curretly working with Android developing as intern.
+
+- 🌱 I'm studying about architectures (like MVVM, MVI) to use in Android projects and about new ways to design UIs too (don't you think Material3 is so beautiful?).
 
 <!--
 **igor-bt/igor-bt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
