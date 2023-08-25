@@ -7,7 +7,7 @@ Here I'm uploading some projects I have done during my engineering graduation (I
 
 - 🌱 I'm studying about architectures (like MVVM, MVI) to use in Android projects and about new ways to design UIs with Jetpack Compose too (don't you think Material3 is so beautiful?).
 
-- 🌱 I'm interest in acessibility design and development of applications, we have to build things everyone can use!
+- 🌱 I'm interest in accessibility design and development of applications, we have to build things everyone can use!
 
 <!--
 **igor-bt/igor-bt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
