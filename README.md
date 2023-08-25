@@ -3,9 +3,11 @@ Welcome to my personal github page!
 
 Here I'm uploading some projects I have done during my engineering graduation (I'm still undergraduate and hope to remove this parentheses in the nexts commits) and also personal projects made on my particular studies.
 
-- 🔭 I'm curretly working with Android developing as intern.
+- 🔭 I'm curretly working with Android development as an intern.
 
-- 🌱 I'm studying about architectures (like MVVM, MVI) to use in Android projects and about new ways to design UIs too (don't you think Material3 is so beautiful?).
+- 🌱 I'm studying about architectures (like MVVM, MVI) to use in Android projects and about new ways to design UIs with Jetpack Compose too (don't you think Material3 is so beautiful?).
+
+- 🌱 I'm interest in acessibility design and development of applications, we have to build things everyone can use!
 
 <!--
 **igor-bt/igor-bt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
