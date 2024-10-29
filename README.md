@@ -1,9 +1,9 @@
 ### Hello there 👋
 Welcome to my personal github page! 
 
-Here I'm uploading some projects I have done during my engineering graduation (I'm still undergraduate and hope to remove this parentheses in the nexts commits) and also personal projects made on my particular studies.
+Here I'm uploading some projects I have done during my engineering graduation and also personal projects made on my particular studies.
 
-- 🔭 I'm curretly working with Android development as an intern.
+- 🔭 I'm curretly working with Android NAtive development.
 
 - 🌱 I'm studying about architectures (like MVVM, MVI) to use in Android projects and about new ways to design UIs with Jetpack Compose too (don't you think Material3 is so beautiful?).
 
