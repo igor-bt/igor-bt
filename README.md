@@ -2,7 +2,7 @@
 
 ### 🚀 Android Developer | Software Engineer | Tech Enthusiast  
 Welcome to my personal github page!  I'm a passionate Android Developer with experience in designing, building, and optimizing mobile applications.
-Here I'm uploading some projects from my particular studies, I plan to upload them on a 
+Here I'm uploading some projects from my particular studies.
 
 - 🔭 I'm curretly working as Android Native developer on Samsung Research Brazil.
 
